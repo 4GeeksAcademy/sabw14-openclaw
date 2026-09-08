@@ -3,7 +3,7 @@
 - **Name:** Samuel
 - **What to call them:** Samuel
 - **Pronouns:** él
-- **Timezone:** (pendiente — los mensajes llegan en UTC)
+- **Timezone:** Caracas UTC-4
 - **Notes:** Está haciendo un bootcamp de programación. Quiere ayuda con todas las tareas del bootcamp.
 
 ## Context
