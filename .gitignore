@@ -1,0 +1,20 @@
+# Secrets / credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials/
+
+# Backups and state dumps
+*.bak
+*.bak.*
+*.last-good
+openclaw-workspace-state.json.bak*
+
+# Logs and caches
+*.log
+logs/
+cache/
+tmp/
+.DS_Store
