@@ -1,33 +1,24 @@
-# TOOLS.md - Local Notes
+# TOOLS.md
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup: camera names and locations, SSH hosts and aliases, preferred TTS voices, speaker/room names, device nicknames, anything environment-specific.
+Configuración de herramientas e integraciones usadas por las skills del agente.
+<!-- TODO: completar con los valores reales; los de abajo son placeholders. -->
 
-## Examples
+## Google Docs / Drive
+- Diario de aprendizaje: <!-- TODO: nombre o ID del Google Doc, y carpeta en Drive -->
+- Carpeta de Drive para planes semanales: <!-- TODO -->
+- Convención de nombres de documentos: <!-- TODO, ej. "Plan semana del YYYY-MM-DD" -->
 
-```markdown
-### Cameras
+## Google Calendar
+- Calendario por defecto: <!-- TODO -->
+- Zona horaria: <!-- TODO, ej. America/Mexico_City -->
+- Recordatorio estándar: <!-- TODO, ej. 15 minutos antes -->
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+## Google Tasks
+- Lista relevante: <!-- TODO -->
+- Duración estándar por tarea si no se especifica: <!-- TODO, ej. 30 minutos -->
 
-### SSH
+## GitHub
+- Repos por defecto a seguir: <!-- TODO, ej. usuario/repo1, usuario/repo2 -->
 
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
-
----
-
-Add whatever helps you do your job. This is your cheat sheet.
-
-## Related
-
-- [Agent workspace](/concepts/agent-workspace)
+## Telegram
+- Chat/canal para envío de resúmenes: <!-- TODO, ej. chat ID o nombre -->
